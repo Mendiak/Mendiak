@@ -13,7 +13,7 @@ Thank you for visiting my portfolio, and I look forward to the opportunity to co
 
 ### Technologies I Use 💻
 
-In my web development projects, I harness the power of various technologies to create engaging online experiences. This includes HTML5, which provides the structure of web pages, and CSS for styling and appearance. JavaScript adds interactivity and dynamic functionality, while React allows me to build user-friendly interfaces efficiently.
+In my web development projects, I harness the power of various technologies to create engaging online experiences. This includes HTML5, which provides the structure of web pages, and CSS for styling and appearance as well as Bootstrap. JavaScript adds interactivity and dynamic functionality, while React allows me to build user-friendly interfaces efficiently.
 
 I also utilize jQuery for simplified JavaScript programming and Sass to enhance CSS with features like variables and mixins, making my stylesheets more organized and maintainable. Additionally, I work with WordPress, a versatile platform for website and blog development, providing clients with flexible and customizable digital solutions.
 
@@ -24,5 +24,4 @@ By combining these technologies, I'm able to craft modern and user-friendly webs
 - 👀 I’m interested in creating innovative web solutions.
 - 🌱 I’m currently learning new frontend frameworks to stay up-to-date.
 - 💞️ I’m looking to collaborate on exciting web projects that push boundaries.
-- 📫 How to reach me: [Insert your contact information here].
 - ⚡ Hobbies: I love photography, electronic music, mountains and Werner Herzog.
