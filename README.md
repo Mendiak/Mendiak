@@ -26,5 +26,6 @@ By combining these technologies, I'm able to craft modern and user-friendly webs
 - 💞️ I’m looking to collaborate on exciting web projects that push boundaries.
 - ⚡ Hobbies: I love photography, electronic music, mountains and Werner Herzog.
 
-![Codewars Badge](https://www.codewars.com/users/mendiak/badges/large)
+[![Codewars Badge](https://www.codewars.com/users/mendiak/badges/large)](https://www.codewars.com/users/mendiak)
+
 
