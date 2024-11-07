@@ -1,31 +1,22 @@
-# Hi, I'm Mikel Aramendia 👋
-## I am a web developer in Barcelona 🌆
+# Hi, I'm Mikel Aramendia 👋  
+## Web Development Enthusiast in Barcelona 🌆  
 
-### About me ℹ️
+### About Me ℹ️  
 
-Hello! I'm Mikel, a passionate web developer with a keen interest in technology and its transformative potential. From a young age, I've been drawn to the world of technology and its ability to shape our interactions with the digital landscape.
+Hello! I’m Mikel, a web development enthusiast with a passion for technology and how it shapes our digital interactions. Since I was young, I’ve been fascinated by the creative potential of tech, and I love exploring new ways to design and build digital experiences that feel intuitive and engaging.
 
-My development philosophy revolves around the principles of usability, simplicity, and clarity. I firmly believe that less is more when it comes to crafting digital experiences. My goal is to design and build web projects that are not only visually appealing but also intuitive and user-friendly for all.
+I believe in the power of simplicity: my goal is to create interfaces that are both visually appealing and easy to use. Tackling challenges and turning complex ideas into streamlined solutions is what drives me. I’m constantly learning and experimenting with new trends and tools, aiming to keep my projects fresh, modern, and enjoyable for everyone.
 
-I thrive on tackling complex challenges and crafting elegant solutions that keep complexity in check. I'm dedicated to harnessing the power of technology to simplify our lives and enhance our digital interactions. With each project I undertake, I strive to incorporate the latest trends and technologies to ensure that my creations are cutting-edge and deliver a modern, engaging user experience.
+Thanks for stopping by—I hope you find something inspiring here! 🚀
 
-Thank you for visiting my portfolio, and I look forward to the opportunity to collaborate and create memorable digital experiences together in the future! 🚀
+### A Bit More About Me 👀  
 
-### Technologies I Use 💻
+- 👀 I’m interested in experimenting with creative web solutions.  
+- 🌱 Currently learning new frontend frameworks to stay up-to-date.  
+- 💬 Always open to collaboration on exciting projects.  
+- ⚡ Hobbies: I love photography, electronic music, the mountains, and films by Werner Herzog.  
 
-In my web development projects, I harness the power of various technologies to create engaging online experiences. This includes HTML5, which provides the structure of web pages, and CSS for styling and appearance as well as Bootstrap. JavaScript adds interactivity and dynamic functionality, while React allows me to build user-friendly interfaces efficiently.
+[![Codewars Badge](https://www.codewars.com/users/mendiak/badges/large)](https://www.codewars.com/users/mendiak)  
 
-I also utilize jQuery for simplified JavaScript programming and Sass to enhance CSS with features like variables and mixins, making my stylesheets more organized and maintainable. Additionally, I work with WordPress, a versatile platform for website and blog development, providing clients with flexible and customizable digital solutions.
-
-By combining these technologies, I'm able to craft modern and user-friendly websites that meet the diverse needs of my clients and users. 🎨
-
-### More About Me 👀
-
-- 👀 I’m interested in creating innovative web solutions.
-- 🌱 I’m currently learning new frontend frameworks to stay up-to-date.
-- 💞️ I’m looking to collaborate on exciting web projects that push boundaries.
-- ⚡ Hobbies: I love photography, electronic music, mountains and Werner Herzog.
-
-[![Codewars Badge](https://www.codewars.com/users/mendiak/badges/large)](https://www.codewars.com/users/mendiak)
 
 
