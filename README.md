@@ -1,22 +1,21 @@
 # Hi, I'm Mikel Aramendia 👋  
-## Web Development Enthusiast in Barcelona 🌆  
+## Web Development as a Creative Exercise 🛠️  
 
 ### About Me ℹ️  
 
-Hello! I’m Mikel, a web development enthusiast with a passion for technology and how it shapes our digital interactions. Since I was young, I’ve been fascinated by the creative potential of tech, and I love exploring new ways to design and build digital experiences that feel intuitive and engaging.
+Hi! I’m Mikel, based in Barcelona, and while I don’t work professionally as a developer, I truly enjoy building things for the web. For me, it’s a mix of creativity, curiosity, and problem-solving—a kind of mental playground where I get to learn, experiment, and have fun.
 
-I believe in the power of simplicity: my goal is to create interfaces that are both visually appealing and easy to use. Tackling challenges and turning complex ideas into streamlined solutions is what drives me. I’m constantly learning and experimenting with new trends and tools, aiming to keep my projects fresh, modern, and enjoyable for everyone.
+Web development is something I do in my spare time, mostly as a way to explore ideas and challenge myself to learn new tools and techniques. I find joy in turning concepts into digital experiences, even if the result isn’t perfect—because every project teaches me something new.
 
-Thanks for stopping by—I hope you find something inspiring here! 🚀
+I try to keep my projects simple, user-friendly, and visually pleasing. Whether it’s a small experiment or a more involved app, I see each one as a learning opportunity and a way to keep growing.
+
+Thanks for stopping by! I hope something here catches your interest. 🚀
 
 ### A Bit More About Me 👀  
 
-- 👀 I’m interested in experimenting with creative web solutions.  
-- 🌱 Currently learning new frontend frameworks to stay up-to-date.  
-- 💬 Always open to collaboration on exciting projects.  
-- ⚡ Hobbies: I love photography, electronic music, the mountains, and films by Werner Herzog.  
+- 💡 Web tinkerer and technology enthusiast  
+- 🌱 Always learning—currently exploring frontend frameworks and design systems  
+- 🤝 Open to collaborations, especially playful or experimental ideas  
+- 🎵 Hobbies: photography, electronic music, hiking in the mountains, and Herzog’s films  
 
-[![Codewars Badge](https://www.codewars.com/users/mendiak/badges/large)](https://www.codewars.com/users/mendiak)  
-
-
-
+[![Codewars Badge](https://www.codewars.com/users/mendiak/badges/large)](https://www.codewars.com/users/mendiak)
