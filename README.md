@@ -1,4 +1,4 @@
-# Hi, I'm Mikel 👋  
+# Hi, I'm Mikel
 ## Web Development as a creative exercise 🛠️  
 
 ### About Me ℹ️  
