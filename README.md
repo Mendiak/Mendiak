@@ -1,5 +1,5 @@
-# Hi, I'm Mikel Aramendia 👋  
-## Web Development as a Creative Exercise 🛠️  
+# Hi, I'm Mikel 👋  
+## Web Development as a creative exercise 🛠️  
 
 ### About Me ℹ️  
 
