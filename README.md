@@ -1,7 +1,7 @@
 # Hi, I'm Mikel
 ## Web Development as a creative exercise 🛠️  
 
-### About Me ℹ️  
+### About Me 
 
 Hi! I’m Mikel, based in Barcelona, and while I don’t work professionally as a developer, I truly enjoy building things for the web. For me, it’s a mix of creativity, curiosity, and problem-solving—a kind of mental playground where I get to learn, experiment, and have fun.
 
@@ -11,11 +11,9 @@ I try to keep my projects simple, user-friendly, and visually pleasing. Whether 
 
 Thanks for stopping by! I hope something here catches your interest. 🚀
 
-### A Bit More About Me 👀  
+### A Bit More About Me 
 
 - 💡 Web tinkerer and technology enthusiast  
 - 🌱 Always learning—currently exploring frontend frameworks and design systems  
 - 🤝 Open to collaborations, especially playful or experimental ideas  
 - 🎵 Hobbies: photography, electronic music, hiking in the mountains, and Herzog’s films  
-
-[![Codewars Badge](https://www.codewars.com/users/mendiak/badges/large)](https://www.codewars.com/users/mendiak)
