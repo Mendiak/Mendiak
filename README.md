@@ -1,5 +1,5 @@
 # Hi, I'm Mikel
-## Web Development as a creative exercise 🛠️  
+## Web Development as a creative exercise 
 
 ### About Me 
 
@@ -9,11 +9,11 @@ Web development is something I do in my spare time, mostly as a way to explore i
 
 I try to keep my projects simple, user-friendly, and visually pleasing. Whether it’s a small experiment or a more involved app, I see each one as a learning opportunity and a way to keep growing.
 
-Thanks for stopping by! I hope something here catches your interest. 🚀
+Thanks for stopping by! I hope something here catches your interest. 
 
 ### A Bit More About Me 
 
-- 💡 Web tinkerer and technology enthusiast  
-- 🌱 Always learning—currently exploring frontend frameworks and design systems  
-- 🤝 Open to collaborations, especially playful or experimental ideas  
-- 🎵 Hobbies: photography, electronic music, hiking in the mountains, and Herzog’s films  
+- Web tinkerer and technology enthusiast  
+- Always learning—currently exploring frontend frameworks and design systems  
+- Open to collaborations, especially playful or experimental ideas  
+- Hobbies: photography, electronic music, mountains, and Herzog’s films  
