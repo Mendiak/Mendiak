@@ -16,4 +16,6 @@ Thanks for stopping by! I hope something here catches your interest.
 - Web tinkerer and technology enthusiast  
 - Always learning—currently exploring frontend frameworks and design systems  
 - Open to collaborations, especially playful or experimental ideas  
-- Hobbies: photography, electronic music, mountains, and Herzog’s films  
+- Hobbies: photography, electronic music, mountains, and Herzog’s films
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Mendiak" data-color="#FFDD00" data-emoji=""  data-font="Arial" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
