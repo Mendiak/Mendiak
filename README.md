@@ -21,3 +21,4 @@ Thanks for stopping by! I hope something here catches your interest.
 <a href="https://www.buymeacoffee.com/Mendiak" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Mendiak/badge.svg)](https://hub.xerj.org/contributors/Mendiak)
